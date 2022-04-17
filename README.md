@@ -9,7 +9,7 @@
 
 
  
-### 🛠 &nbsp;Conocimientos
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> &nbsp;Conocimientos 
 
 <p align="left">
   
@@ -29,7 +29,13 @@
 ![Angular](https://img.shields.io/badge/Angular-05122A?logo=angular&logoColor=red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=intellijidea)&nbsp;
+![PhpStorm](https://img.shields.io/badge/PhpStorm-05122A?style=flat&logo=phpstorm)&nbsp;\
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=androidstudio)&nbsp;
+![NetBeans](https://img.shields.io/badge/NetBeans-05122A?style=flat&logo=netbeans)&nbsp;
 </p>
 
 
@@ -47,3 +53,8 @@
   <p align="flex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhon1348&theme=algolia" alt="Jhon1348"/></p>
 </p>
 </p>
+
+-----
+
+### <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Jhon1348&theme=algolia" />
