@@ -1,6 +1,10 @@
 ### Hola, Mi nombre es Jhon 👋
 ✉️ Puedes enviarme un email a jmoreno1@iesebre.com
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jhon1348)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jhon-moreno-codes)
+
 
 ### 🛠 &nbsp;Conocimientos
 
