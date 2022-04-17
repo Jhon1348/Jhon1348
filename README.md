@@ -18,8 +18,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-05122A?style=flat&llogo=mysql&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Angular](https://img.shields.io/badge/Angular-05122A?logo=angular&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
 
 
 
