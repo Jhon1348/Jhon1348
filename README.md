@@ -1,13 +1,18 @@
 ### Hola, Mi nombre es Jhon 👋
 ✉️ Puedes enviarme un email a jmoreno1@iesebre.com
 
+<p><img height="22%" width="22%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)]()
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jhon1348)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jdmorenog/)
 
 
+ 
 ### 🛠 &nbsp;Conocimientos
 
+<p align="left">
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -25,11 +30,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+</p>
 
 
-
+-----
 
 ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
 
 <p align="flex">
 <a href="https://github.com/Jhon1348">
@@ -37,4 +45,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jhon1348&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <p align="flex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhon1348&theme=algolia" alt="Jhon1348"/></p>
+</p>
 </p>
